@@ -5,15 +5,15 @@
 <br/>
 
 ## 📱 Preview
-- 게임실행 화면
+- **게임실행** 화면
 <img src="https://user-images.githubusercontent.com/39701029/148992463-aad377b3-bec6-4bfd-8df8-ef2547a70c4d.jpg" width="70%">
 <br/>
 
-- 'You Win🎉' 화면
+- '**You Win🎉'** 화면
 <img src="https://user-images.githubusercontent.com/39701029/148992433-91057264-b44e-4935-a7b0-25cc2d925253.jpg" width="70%">
 <br/>
 
-- 'Try Aagin😥' 화면
+- '**Try Aagin😥'** 화면
 <img src="https://user-images.githubusercontent.com/39701029/148990930-2094f67d-da31-40e3-b6cf-36e1918be642.jpg" width="70%">
 <br/>
 
@@ -35,15 +35,14 @@
 * HTML
 * CSS
 * JAVASCRIPT
-
 <br/>
 
 
 ## ☑️ How to Play
-1. 재생 버튼 클릭하세요.
-2. 20초 내에 6개의 모든 **carrot 제거**해 주세요.
-3. 주어진 시간안에 모두 제거했다면 **승리!**
-4. bug를 제거하거나 시간이 초과되었을 경우 **실패!**
+1.  재생 버튼 클릭하세요.
+2.  20초 내에 6개의 모든 **carrot 제거**해 주세요.
+3.  주어진 시간안에 모두 제거했다면 **승리!**
+4.  bug를 제거하거나 시간이 초과되었을 경우 **실패!**
 
 <br/>
 
